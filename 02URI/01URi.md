@@ -4,7 +4,7 @@
 
 **URI? URL? URN?**
 
-URI 는 로케이( locator ), 이름( name ) 또는, 둘 다 추가로 분류될 수 있다
+URI 는 로케이터( locator ), 이름( name ) 또는, 둘 다 추가로 분류될 수 있다
 
 ---
 
@@ -18,7 +18,6 @@ URI 는 로케이( locator ), 이름( name ) 또는, 둘 다 추가로 분류될
 >> URN( Resource **Name** )
 >>
 >> 리소스의 이름
->
 
 
 ---
