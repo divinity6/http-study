@@ -133,7 +133,7 @@
 
 - header-field = field-name":" _OWS_ field-value _OWS_ ( OWS : 띄어쓰기 허용 )
 - field-name 은 대소문자 구분 없음
-- 그러나 filed-value 는 대소문자를 구분한다
+- 그러나 field-value 는 대소문자를 구분한다
 
 ---
 
