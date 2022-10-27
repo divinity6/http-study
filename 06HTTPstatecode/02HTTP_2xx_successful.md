@@ -52,7 +52,7 @@ _<-- 200 OK_
 >
 > ---
 >
-> POST / members/100 HTTP/1.1
+> POST / members HTTP/1.1
 >
 > Content-Type : application/json
 >
