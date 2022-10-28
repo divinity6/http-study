@@ -13,7 +13,7 @@
 - 307 Temporary Redirect
 - 308 Permanent Redirect
 
-유저 에이전트 : 클라이언트 프로그람( 주로 웹 브라우저 )
+*유저 에이전트 : 클라이언트 프로그람( 주로 웹 브라우저 )
 
 --
 
@@ -101,12 +101,12 @@ _자동 리다이렉트 -->_
 >
 > ---
 >
-> POST /event HTTP/1.1
+> **POST** /event HTTP/1.1
 > ( POST 사용 )
 > 
 > Host: localhost:8080
 > 
-> name=hello&age=20
+> **name=hello&age=20**
 > ( 메시지 존재 )
 
 > 응답
@@ -115,7 +115,7 @@ _자동 리다이렉트 -->_
 >
 > HTTP/1.1 301 Moved Permanently
 >
-> Location: /new-event
+> **Location: /new-event**
 
 _자동 리다이렉트 -->_
 
@@ -146,19 +146,19 @@ _자동 리다이렉트 -->_
 >
 > ---
 >
-> POST /event HTTP/1.1
+> **POST** /event HTTP/1.1
 > ( POST 사용 )
 >
 > Host: localhost:8080
 >
-> name=hello&age=20
+> **name=hello&age=20**
 > ( 메시지 존재 )
 
 > 응답
 >
 > ---
 >
-> HTTP/1.1 308 Permanent Redirect
+> HTTP/1.1 **308 Permanent Redirect**
 >
 > Location: /new-event
 
