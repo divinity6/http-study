@@ -21,7 +21,7 @@
 >
 > ---
 >
-> GET / search?q=hello&hl=ko HTTP/1.1
+> GET /search?q=hello&hl=ko HTTP/1.1
 >
 > Host: www.google.com
 

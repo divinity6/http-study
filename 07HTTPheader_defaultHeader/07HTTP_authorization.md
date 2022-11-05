@@ -1,9 +1,9 @@
 ## 인증 헤더
 
-- Authorization: 클라이언트 인증 정보를 서버에 전다
+- Authorization: 클라이언트 인증 정보를 서버에 전달
 
 
-- WWW-Authenticate: 리소스 접근시 필요한 은증 방법 정의
+- WWW-Authenticate: 리소스 접근시 필요한 인증 방법 정의
 
 ---
 
