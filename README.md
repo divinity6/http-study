@@ -22,5 +22,6 @@
 ### [ HTTP_HEADER ]( https://github.com/divinity6/http-study/tree/master/07HTTPheader_defaultHeader )
 - HTTP 헤더 종류 및 소개
 
+---
 
 - 출처 : https://www.inflearn.com/users/@yh
